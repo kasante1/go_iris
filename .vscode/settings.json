@@ -1,0 +1,5 @@
+{
+    "docker.contexts.showInStatusBar": true,
+    "docker.images.groupBy": "Registry",
+    "docker.dockerPath": ""
+}
